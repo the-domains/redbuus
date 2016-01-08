@@ -1,0 +1,28 @@
+name: redbuus
+favicon: null
+layout_spectrum: 0.533250120934099
+typography_spectrum: 0.3149432707577944
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.07300377334468067
+  lightness: 0.9811273477971554
+  saturation: 0.11523754196241498
+  rhythmicContrast: 0.9512940836139023
+purpose: []
